@@ -1,0 +1,65 @@
+body {
+	background-image: url("images/bg-intro-desktop.png");
+	background-color: hsl(0, 100%, 74%) ;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1{
+	font-weight: 700;
+}
+
+.p1{
+	font-size: 0.9rem;
+	margin-top: 15px;
+}
+
+.container-fluid {
+	padding: 7% 15%;
+}
+
+.white {
+	color: white;
+	margin-top: 15%;
+}
+
+.mid {
+	background-color: hsl(248, 32%, 49%);
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.form {
+	background-color: white;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+
+.f2 {
+	padding: 5%;
+}
+
+.input {
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.btn {
+	background-color: hsl(154, 59%, 51%);
+	color: white;
+	font-weight: 600;
+}
+
+.foot {
+	margin-top: 10px;
+	font-weight: 400;
+	font-size: 0.6rem;
+	text-align: center;
+}
+
+span{
+	color: red;
+}
